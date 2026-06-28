@@ -1,0 +1,14 @@
+metric,value
+Raw rows,932
+Exact duplicate copies removed,20
+Rows after exact duplicate removal,912
+Unique order IDs after exact duplicate removal,900
+Conflicting duplicate order IDs,12
+Rows with any quality flag,132
+Rows marked OK,780
+Missing region filled as Unknown,25
+Missing ship_mode filled as Unknown,21
+Missing discount set to 0,26
+Negative discount rows,15
+High discount rows > 50%,7
+Ship date earlier than order date,21
